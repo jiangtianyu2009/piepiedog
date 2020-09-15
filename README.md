@@ -1,2 +1,4 @@
 # piepiedog
-piepiedog.com
+
+## Tech Arch
+Vue + Nuxtjs + Flask + Gunicorn + Nginx
